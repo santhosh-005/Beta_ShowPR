@@ -1,6 +1,8 @@
-# ShowPR - GitHub PR Dashboard
+# ShowPR (Beta) - GitHub PR Dashboard
 
-A powerful GitHub Pull Request Dashboard that helps developers showcase and manage their contributions effectively. ShowPR provides a beautiful interface to view, filter, and share your pull request history.
+**ShowPR** is a powerful GitHub Pull Request Dashboard that helps developers showcase and manage their contributions effectively. With ShowPR, you can view, filter, and share your pull request history through a beautiful and intuitive interface.  
+
+> ⚠️ **Note:** This is the **Beta version** of ShowPR. An extended edition with additional features exists but is **closed-source**.
 
 ## Features
 
@@ -21,4 +23,5 @@ A powerful GitHub Pull Request Dashboard that helps developers showcase and mana
 - Radix UI
 - NextAuth.js
 - Supabase
-- Chart.js/Recharts
+- Chart.js / Recharts
+- Sentry
