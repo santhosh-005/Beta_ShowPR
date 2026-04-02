@@ -4,6 +4,8 @@
 
 > ⚠️ **Note:** This is the **Beta version** of ShowPR. An extended edition with additional features exists but is **closed-source**.
 
+- Crossed ~300 users & 130+ upvotes on ProductHunt. Give a try at [show-pr.vercel.app](https://show-pr.vercel.app)
+
 ## Features
 
 - **GitHub Authentication**: Secure login with GitHub OAuth
